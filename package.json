@@ -1,9 +1,10 @@
 {
-  "name": "atm-application--zahi-cli",
+  "name": "cli-zahi786-atm-project-3",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a 3rd project  ATM Application",
   "main": "index.js",
   "type": "module",
+  "bin" : "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
